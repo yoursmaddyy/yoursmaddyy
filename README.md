@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a 6th-semester **BS Artificial Intelligence** student at COMSATS University Islamabad (CGPA **3.83/4.00** — batch topper), and **Tech Lead & Founding Member** of Google Developer Group (GDG) On Campus Wah.
+I'm a 6th-semester **BS Artificial Intelligence** student at COMSATS University Islamabad with strong academic record and **Tech Lead & Founding Member** of Google Developer Group (GDG) On Campus Wah.
 
 I don't just study AI — I build with it. My work spans full-stack AI applications, computer vision systems, and sequence models. I'm actively looking for **remote internships**, **project collaborations**, and **open-source contributions** where I can bring real ML engineering skills to the table.
 
