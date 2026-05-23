@@ -201,6 +201,8 @@ I'm open to **remote internships**, **freelance ML projects**, and **research co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adeelasghar11-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adeelasghar11)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-adeelasghar.dev-00d9ff?style=for-the-badge&logo=vercel&logoColor=white)](https://adeelasghar.dev)
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FAdeelAsghar11&style=flat)](https://rankistan.dev)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-adeelyt157@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeelyt157@gmail.com)
 
